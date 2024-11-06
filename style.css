@@ -1,0 +1,28 @@
+body{
+color:white;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color:black;
+
+}
+h1{
+    color:blue;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: black;
+}
+a{
+color:rgb(188, 33, 59);
+background-color: black;
+}
+a:hover{
+color:blueviolet;
+background-color:cadetblue;
+}
+ul> li{
+font-weight: bold;
+}
+ul li:hover{
+    color:aquamarine;
+}
+a::after{
+content:"🛸 🌎 ° 🌓 • .°• 🚀 ✯ ★ * ° 🛰 °· 🪐 . • ° ★ • ☄ ▁▂▃▄▅▆▇▇▆▅▄▃▁";
+}
+ul li::before{
+    content:"👽";}
