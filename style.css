@@ -1,15 +1,15 @@
 body{
 color:white;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background-color:black;
+background-color: grey;"
 
 }
 h1{
-    color:blue;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background-color: black;
+    color:gold;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-image:;
 }
 a{
-color:rgb(188, 33, 59);
-background-color: black;
+color:rgb(33, 41, 188);
+background-color:yellow;
 }
 a:hover{
 color:blueviolet;
@@ -19,10 +19,6 @@ ul> li{
 font-weight: bold;
 }
 ul li:hover{
-    color:aquamarine;
+    color:gold;
 }
-a::after{
-content:"🛸 🌎 ° 🌓 • .°• 🚀 ✯ ★ * ° 🛰 °· 🪐 . • ° ★ • ☄ ▁▂▃▄▅▆▇▇▆▅▄▃▁";
-}
-ul li::before{
-    content:"👽";}
+
